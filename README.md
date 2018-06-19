@@ -17,7 +17,7 @@ If you did this already, continue with the Linux installation guide.
 If you do not want to use the WSL, download the windows version of Anaconda here:
 https://www.anaconda.com/download/#windows
 
-** When asked if you want to add anaconda to PATH, answer yes, although it's not recommended**
+**When asked if you want to add anaconda to PATH, answer yes, although it's not recommended**
 
 For git, install https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-64-bit.exe
 
