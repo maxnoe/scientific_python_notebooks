@@ -76,11 +76,11 @@ For git, install https://github.com/git-for-windows/git/releases/download/v2.17.
 
     ```
     Do you wish the installer to prepend the Anaconda3 install location
-    to PATH in your /home/username/.bashrc ? [yes|no]
+    to PATH in your /home/username/.bash_profile ? [yes|no]
     [no] >>> no
     ```
 
-1. Edit your `.bashrc` to include these two lines at the end:
+1. Edit your `.bash_profile` to include these two lines at the end:
 
   ```
   . "$HOME/.local/anaconda3/etc/profile.d/conda.sh"
