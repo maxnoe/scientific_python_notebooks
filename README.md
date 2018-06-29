@@ -7,7 +7,7 @@ The material mostly comes from the
 * [A workshop for Astronomers and Particle Physicists](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE)
 * [The Second Asterics-Obelics School 2018](https://github.com/Asterics2020-Obelics/School2018)
 
-And was put together and presented by @mackaiver and me.
+And was put together and presented by [@mackaiver](https://github.com/mackaiver) and me.
 
 
 ## Installation
