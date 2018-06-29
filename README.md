@@ -2,9 +2,10 @@
 
 Introduction to scientific python.
 
-The material mostly comes from the 
-* [PeP et al. Toolbox Workshop](https://github.com/pep-dortmund)
-* [A workshop for Astronomers and Particle Physicists](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE)
+The material mostly comes from the
+
+* [PeP et al. Toolbox Workshop](https://github.com/pep-dortmund/toolbox-workshop)
+* [A workshop for Astronomers and Particle Physicists at IFAE and ICE](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE)
 * [The Second Asterics-Obelics School 2018](https://github.com/Asterics2020-Obelics/School2018)
 
 And was put together and presented by [@mackaiver](https://github.com/mackaiver) and me.
