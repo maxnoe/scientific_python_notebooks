@@ -1,5 +1,13 @@
-# e2_hardskill_seminar
-Introduction to Scientific Python for Solid State Physicists at TU Dortmund 2018
+# Scientific Python Notebooks
+
+Introduction to scientific python.
+
+The material mostly comes from the 
+* [PeP et al. Toolbox Workshop](https://github.com/pep-dortmund)
+* [A workshop for Astronomers and Particle Physicists](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE)
+* [The Second Asterics-Obelics School 2018](https://github.com/Asterics2020-Obelics/School2018)
+
+And was put together and presented by @mackaiver and me.
 
 
 ## Installation
@@ -14,10 +22,11 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 If you did this already, continue with the Linux installation guide.
 
+**When asked if you want to add anaconda to PATH, answer yes, although it's not recommended**
+
 If you do not want to use the WSL, download the windows version of Anaconda here:
 https://www.anaconda.com/download/#windows
 
-**When asked if you want to add anaconda to PATH, answer yes, although it's not recommended**
 
 For git, install https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-64-bit.exe
 
