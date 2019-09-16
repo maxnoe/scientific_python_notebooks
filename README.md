@@ -11,7 +11,7 @@ The material mostly comes from the
 And was put together and presented by [@kbruegge](https://github.com/kbruegge) and me.
 
 For an introduction to machine learning in python, see  
-<https://github.com/kbruegge/machine-learning-lecture>
+<https://github.com/kbruegge/machine-learning-lecture>  
 and our Tutorial @ DPG Frühjahrstagung Aachen 2019:  
 <https://github.com/tudo-astroparticlephysics/dpg2019-ml-tutorial>
 
