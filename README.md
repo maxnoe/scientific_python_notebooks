@@ -1,4 +1,4 @@
-# Scientific Python Notebooks
+# Scientific Python Notebooks <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
 Introduction to scientific python.
 
@@ -6,93 +6,17 @@ The material mostly comes from the
 
 * [PeP et al. Toolbox Workshop](https://github.com/pep-dortmund/toolbox-workshop)
 * [A workshop for Astronomers and Particle Physicists at IFAE and ICE](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE)
-* [The Second Asterics-Obelics School 2018](https://github.com/Asterics2020-Obelics/School2018)
+* [The Second Asterics-Obelics School 2019](https://github.com/Asterics2020-Obelics/School2019)
 
-And was put together and presented by [@mackaiver](https://github.com/mackaiver) and me.
+And was put together and presented by [@kbruegge](https://github.com/kbruegge) and me.
 
-
-## Installation
-
-For python, we will use anaconda. We will be using python 3.6.
-
-### Windows
-
-Please think about installing either the Windows Subsystem for Linux, this will make things much easier:
-
-https://docs.microsoft.com/en-us/windows/wsl/install-win10
-
-If you did this already, continue with the Linux installation guide.
-
-**When asked if you want to add anaconda to PATH, answer yes, although it's not recommended**
-
-If you do not want to use the WSL, download the windows version of Anaconda here:
-https://www.anaconda.com/download/#windows
+For an introduction to machine learning in python, see  
+<https://github.com/kbruegge/machine-learning-lecture>
+and our Tutorial @ DPG Frühjahrstagung Aachen 2019:  
+<https://github.com/tudo-astroparticlephysics/dpg2019-ml-tutorial>
 
 
-For git, install https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-64-bit.exe
+## License
 
-### Linux
-
-1. Install required distribution packages :
-  - Ubuntu/Debian: `sudo apt-get install -y git bzip2 wget`
-  - Fedora 25: `sudo dnf install -y git wget bzip2`
-  - CentOS/RHEL: `sudo yum install -y git bzip2 wget`
-
-1. Run the following two commands in the terminal to download and install anaconda:
-  ```
-  $ wget https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
-  $ bash Anaconda3-5.2.0-Linux-x86_64.sh
-  ```
-
-1. Accept the License by pressing `<Enter>`, then scrolling down to the bottom using `<space>` and writing `yes`
-
-1. Choose the install location, I recommend `~/.local/anaconda3` instead of `~/anaconda3` to not mess up you home too much.
-
-1. After the installation, you are asked if you want to add conda to the `PATH`. Answer `no`.
-
-    ```
-    Do you wish the installer to prepend the Anaconda3 install location
-    to PATH in your /home/username/.bashrc ? [yes|no]
-    [no] >>> no
-    ```
-
-1. Edit your `.bashrc` to include these two lines at the end:
-
-  ```
-  . "$HOME/.local/anaconda3/etc/profile.d/conda.sh" 
-  conda activate
-  ```
-
-
-### MacOS
-
-1. Open a terminal and install git:
-
-  ```
-  $ xcode-select --install
-  ```
-
-1. Run the following two commands in the terminal to download and install anaconda:
-  ```
-  $ curl -LO https://repo.anaconda.com/archive/Anaconda3-5.2.0-MacOSX-x86_64.sh
-  $ bash Anaconda3-5.2.0-MacOSX-x86_64.sh
-  ```
-
-1. Accept the License by pressing `<Enter>`, then scrolling down to the bottom using `<space>` and writing `yes`
-
-1. Choose the install location, I recommend `~/.local/anaconda3` instead of `~/anaconda3` to not mess up you home too much.
-
-1. After the installation, you are asked if you want to add conda to the `PATH`. Answer `no`.
-
-    ```
-    Do you wish the installer to prepend the Anaconda3 install location
-    to PATH in your /home/username/.bash_profile ? [yes|no]
-    [no] >>> no
-    ```
-
-1. Edit your `.bash_profile` to include these two lines at the end:
-
-  ```
-  . "$HOME/.local/anaconda3/etc/profile.d/conda.sh"
-  conda activate
-  ```
+The code examples in this material are shared under the GnuGPLv3 license.
+The lecture material (e.g. jupyter notebooks) are shared under the Creative Commons Attribution-NonCommercial License: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt, so they cannot be used for commercial training / tutorials / lectures.
