@@ -14,3 +14,5 @@ dependencies:
   - ipywidgets
   - pytables=3.5
   - pip
+  - pillow
+  - tqdm
