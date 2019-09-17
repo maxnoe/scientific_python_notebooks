@@ -7,5 +7,5 @@ def f(t, a, b, c):
 
 popt, pcov = optimize.curve_fit(f, date, temperature)
 
-plt.plot(date, f(date, *popt), c='red')
+plt.plot(date, f(date, *popt))
 np.sqrt(np.diag(pcov)), popt

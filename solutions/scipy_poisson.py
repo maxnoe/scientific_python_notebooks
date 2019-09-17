@@ -1,7 +1,6 @@
 def negLogLikelihood(params, data):
     """ the negative log-Likelohood-Function"""
-    lamb = params[0]
-    lnl = - poisson.logpmf(data, lamb).sum()
+    lnl = - np.sum(poisson.logpmf(data, params[0]))
     return lnl
 
 
@@ -11,7 +10,7 @@ result = optimize.minimize(negLogLikelihood,  x0=[1], args=(data,))
 print(result)
 
 # plot poisson-deviation with fitted parameter
-x_plot = np.linspace(0, 12, 1500)
+x_plot = np.arange(-1, 12)
 
 plt.hist(data.ravel(), bins=np.arange(12) - 0.5, density=True,)
-plt.plot(x_plot, poisson.pmf(x_plot, result.x), 'r-', lw=2)
+plt.step(x_plot, poisson.pmf(x_plot, result.x), 'r-', lw=2, where='mid')
