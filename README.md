@@ -1,4 +1,4 @@
-# Scientific Python Notebooks <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+# Scientific Python Notebooks <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxnoe/scientific_python_notebooks/master)
 
 Introduction to scientific python.
 
