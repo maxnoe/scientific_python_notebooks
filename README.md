@@ -6,7 +6,9 @@ The material mostly comes from the
 
 * [PeP et al. Toolbox Workshop](https://github.com/pep-dortmund/toolbox-workshop)
 * [A workshop for Astronomers and Particle Physicists at IFAE and ICE](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE)
-* [The Second Asterics-Obelics School 2019](https://github.com/Asterics2020-Obelics/School2019)
+* [The Second Asterics-Obelics School 2018](https://github.com/Asterics2020-Obelics/School2018)
+* [The Third Asterics-Obelics School 2019](https://github.com/Asterics2020-Obelics/School2019)
+* [Python Workshop GRK Uni Freiburg 2019](https://indico.cern.ch/event/846501)
 
 And was put together and presented by [@kbruegge](https://github.com/kbruegge) and me.
 
