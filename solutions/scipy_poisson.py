@@ -1,11 +1,18 @@
-def negLogLikelihood(params, data):
+def neg_log_likelihood(params, data):
     """ the negative log-Likelohood-Function"""
     lnl = - np.sum(poisson.logpmf(data, params[0]))
     return lnl
 
 
 # minimize the negative log-Likelihood
-result = optimize.minimize(negLogLikelihood,  x0=[1], args=(data,))
+result = optimize.minimize(
+    neg_log_likelihood,
+    x0=[20],
+    args=(data,),
+    bounds=[
+        (1e-16, None),  # lambda > 0
+    ]
+)
 
 print(result)
 
