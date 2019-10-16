@@ -4,9 +4,9 @@ import numpy as np
 
 formula = (
     r'$'
-    r'N = \int_{E_\mathrm{min}}^{E_\mathrm{max}} '
+    r'N = \int_{E_{\mathrm{min}}}^{E_{\mathrm{max}}} '
     r'\int_0^A'
-    r'\int_{t_\mathrm{min}}^{t_\mathrm{max}} '
+    r'\int_{t_{\mathrm{min}}}^{t_{\mathrm{max}}} '
     r'\Phi_0 \left(\frac{E}{1\,\mathrm{GeV}}\right)^{\!\!-\gamma}'
     r' \, \mathrm{d}A \, \mathrm{d}t \, \mathrm{d}E'
     r'$'
