@@ -2,17 +2,17 @@ name: dpg
 
 channels:
   - defaults
-
+  - conda-forge
 dependencies:
   - python=3.7
-  - matplotlib=3
-  - notebook=5.7
-  - numpy=1.17
-  - pandas=0.25
-  - scikit-learn=0.21
-  - scipy=1.2
+  - matplotlib=3.4
+  - notebook=6.2
+  - numpy=1.20
+  - pandas=1.4
+  - scikit-learn=0.25
+  - scipy=1.6
   - ipywidgets
-  - pytables=3.5
+  - pytables
   - pip
   - pillow
   - tqdm
