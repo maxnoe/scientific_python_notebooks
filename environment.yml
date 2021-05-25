@@ -8,8 +8,8 @@ dependencies:
   - matplotlib=3.4
   - notebook=6.2
   - numpy=1.20
-  - pandas=1.4
-  - scikit-learn=0.25
+  - pandas=1.2
+  - scikit-learn=0.24
   - scipy=1.6
   - ipywidgets
   - pytables
