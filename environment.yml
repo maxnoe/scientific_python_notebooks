@@ -1,17 +1,17 @@
-name: dpg
+name: snb
 
 channels:
-  - defaults
   - conda-forge
 dependencies:
-  - python=3.9
-  - matplotlib=3.4
-  - notebook=6.2
-  - numpy=1.20
-  - pandas=1.2
-  - scikit-learn=0.24
-  - scipy=1.6
+  - python=3.10
+  - matplotlib=3.5
+  - notebook
+  - numpy=1.21
+  - pandas=1
+  - scikit-learn=1.0
+  - scipy=1
   - ipywidgets
+  - ipympl
   - pytables
   - pip
   - pillow
