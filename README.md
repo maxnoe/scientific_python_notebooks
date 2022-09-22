@@ -9,6 +9,8 @@ The material mostly comes from the
 * [The Second Asterics-Obelics School 2018](https://github.com/Asterics2020-Obelics/School2018)
 * [The Third Asterics-Obelics School 2019](https://github.com/Asterics2020-Obelics/School2019)
 * [Python Workshop GRK Uni Freiburg 2019](https://indico.cern.ch/event/846501)
+* [Escape Data Science School 2021](https://github.com/escape2020/school2021)
+* [Escape Data Science School 2022](https://github.com/escape2020/school2022)
 
 And was put together and presented by [@kbruegge](https://github.com/kbruegge) and me.
 
