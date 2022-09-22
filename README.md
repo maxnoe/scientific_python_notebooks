@@ -15,9 +15,9 @@ The material mostly comes from the
 And was put together and presented by [@kbruegge](https://github.com/kbruegge) and me.
 
 For the statistics and machine learning lecture I teach, see  
-<https://github.com/tudo-astroparticlephysics/machine-learning-lecture>  
+<https://github.com/tudo-astroparticlephysics/machine-learning-lecture> 
 
-@kbruegge and me also gave a machine learning  tutorial @ DPG Frühjahrstagung Aachen 2019:  
+[@kbruegge](https://github.com/kbruegge)  and me also gave a machine learning  tutorial @ DPG Frühjahrstagung Aachen 2019:  
 <https://github.com/tudo-astroparticlephysics/dpg2019-ml-tutorial>
 
 
